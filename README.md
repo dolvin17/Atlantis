@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+What the Dapp will able to do:
+
+* Users can connect/disconnect using their wallet (We suggest using Rainbowkit)
+* Users can see a list of pools they can deposit assets to
+* Users can approve the deposit of assets for a specific pool (see https://eips.ethereum.org/EIPS/eip-2612)
+* I can see the APY for the list of pools
+* I can see my available balance to deposit in a pool
+* I can see my supplied balance in both token units and USD to a pool
 
 ## Getting Started
 
