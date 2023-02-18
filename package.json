@@ -11,12 +11,21 @@
   "dependencies": {
     "@next/font": "13.1.6",
     "@rainbow-me/rainbowkit": "^0.10.0",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "@web3-react/walletconnect-connector": "^6.2.13",
+    "bignumber.js": "^9.1.1",
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
     "ethers": "^5.7.2",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "wagmi": "^0.10.15"
+    "wagmi": "^0.10.15",
+    "web3": "^1.8.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "tailwindcss": "^3.2.7"
   }
 }
